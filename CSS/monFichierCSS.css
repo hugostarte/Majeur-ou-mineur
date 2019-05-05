@@ -1,0 +1,28 @@
+body{
+	background-image: url(fond.jpg);
+	text-align:center;
+	font-style:bolder ;
+	cursor: crosshair ;
+
+}
+#titre{
+	text-align:center;
+	color: white;
+}
+#boutMin{
+	background-color:rgb(45,135,139, 0.1); 	
+}
+#init{
+	background-color:rgb(45,135,139, 0.1);
+}
+#nom{
+	background-color:rgb(45,135,139, 0.1);
+}
+#reel{
+	background-color:rgb(45,135,139, 0.1);
+}
+
+#font{
+	background-color:rgb(245,245,245, 0.2)
+	
+}
